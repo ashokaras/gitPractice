@@ -1,3 +1,10 @@
 hi my name is Ashok
 Software developer
 Sivakasi - 626123
+
+{
+Main main1 = new Main();
+
+main.getMethod();
+
+}
